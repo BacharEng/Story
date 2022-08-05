@@ -1,1 +1,2 @@
-I have no idea what i am doing
+git commit //this initializes a new .git folder
+git status //Shows which branch you are working on, and what files are tracked
