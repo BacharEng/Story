@@ -1,2 +1,4 @@
 git commit //this initializes a new .git folder
 git status //Shows which branch you are working on, and what files are tracked
+git remote add origin <repo_URL> //adds remote location to repository, repo_url should be taken from the repository on github
+git push -u origin master //push your commits to remote location into branch "master" at origin
